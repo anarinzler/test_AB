@@ -11,7 +11,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# Regression Example 
+# Awesome Regression Example 
 
 #Simple Text
 This is a simple bivariate regression example.
